@@ -1,2 +1,4 @@
 Memória RAM
 Placa de vídeo
+SSD
+Fonte

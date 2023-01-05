@@ -1,1 +1,2 @@
 Memória RAM
+Placa de vídeo
